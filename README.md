@@ -1,23 +1,8 @@
-### Hi there 👋 I am Komiljon
+### Hi there 👋 I am Komiljon 🧑🏻‍💻
+
+☝️ I'm learning . . . 
+
 The skills I can offer you include (but not limited to) Java backend,Spring fremwork,Spring boot,C++(50%)  and Postgres SQL. My experience working in leading companies, based-in the U.S. assures you can have your ideal .NET project up and running according to your deadlines.
 
 
 Be sure, because you get the value that you pay for. Don't hesitate to negotiate 100% moneyback in case the result I offer you does not meet your expectations.
-
-
-
-
-<!--
-**KomiljonDeveloper/KomiljonDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
